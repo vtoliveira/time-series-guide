@@ -5,9 +5,8 @@ Repository to be a self-study guide into the world of time series analysis.
 
 The two books that will be our major references are:
 
-[Forecasting: Principles and Practice](https://otexts.com/fpp2/)
-
-[Applied Time Series Analysis](https://online.stat.psu.edu/stat510/lesson/1)
+ - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+ - [Applied Time Series Analysis](https://online.stat.psu.edu/stat510/lesson/1)
 
 ## Lesson 1
 
@@ -23,8 +22,8 @@ The first step of any time series analysis is going to be a data exploration to 
  
  The major chapters references for our first lesson will be:
  
- [Chapters 1, 2, 3 - FPP] (https://otexts.com/fpp2/intro.html)
- [Time Series Basics] (https://online.stat.psu.edu/stat510/lesson/1)
+ - [Chapters 1, 2, 3 - FPP](https://otexts.com/fpp2/intro.html)
+ - [Time Series Basics](https://online.stat.psu.edu/stat510/lesson/1)
  
  Your goal will be to explore the four datasets in the ``` data/raw/ ``` directory:
   - daily-total-female-births.csv
