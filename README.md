@@ -6,6 +6,7 @@ Repository to be a self-study guide into the world of time series analysis.
 The two books that will be our major references are:
 
 [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+
 [Applied Time Series Analysis](https://online.stat.psu.edu/stat510/lesson/1)
 
 ## Lesson 1
